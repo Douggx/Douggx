@@ -12,7 +12,6 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   
-  <img align="left" width="47%" height="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=douggx ">
  
 
   
@@ -20,6 +19,9 @@
   
 
 <!--
+
+  <img align="left" width="47%" height="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=douggx ">
+
 **Douggx/Douggx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=douggx"
 Here are some ideas to get you started:
