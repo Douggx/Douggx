@@ -25,6 +25,7 @@
 <!--
 
   <img align="left" width="47%" height="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=douggx ">
+![portfolio](https://user-images.githubusercontent.com/103120880/188628692-36e7ebea-3f0a-4513-921a-096177ca791c.png)
 
 **Douggx/Douggx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=douggx"
